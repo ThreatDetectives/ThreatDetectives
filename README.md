@@ -1,2 +1,2 @@
 # ThreatDetectives
-Build a learning AI that can detect threatening speech.
+Learning AI that has been trained to detect threatening speech.
