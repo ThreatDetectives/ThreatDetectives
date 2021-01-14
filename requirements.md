@@ -7,7 +7,7 @@ We are creating a tool to help people identify threatening language online. This
   - Take the langauge and run it through our AI
   - It will return a threat precentage back to the user
 - Out : 
-  - This tool will not expose or save any sensitive information about the target's personal life that isn't already public
+  - This tool will not expose or save any sensitive information about the target's personal life
   - The AI will not learn from the input URLs
   - Our product will not be avaible as a mobile app
   - The AI will not crawl the internet
