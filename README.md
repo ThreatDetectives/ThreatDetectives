@@ -16,3 +16,13 @@ A list of resources used in this project.
 
 # References 
 A list of references we used to help build this project.
+
+# Trello
+
+[User Stories/Workflow](https://trello.com/b/MmLoe68O/threatdetectives)
+
+# Domain Model
+![Domain Model](./assets/domain-model.png)
+
+# Wireframe
+![Wireframe](./assets/wireframe.png)
