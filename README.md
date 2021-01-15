@@ -1,5 +1,5 @@
 # ThreatDetectives
-Build a learning AI that can detect threatening speech.
+Build a learning AI that can detect threatening speech. This Repo is to train the Model aswell.
 
 # Developers
 - Hexx King
