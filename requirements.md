@@ -14,7 +14,7 @@ We are creating a tool to help people identify threatening language online. This
 
 # Minimum Viable Product
 - An AI that will learn behavior from a selected data set to return a percentage that is based on threatening language.
-- The training database will be able to hold multiple data sets in the order to change the type of language it can search for.
+- The training database will be able to hold one data set based on the language it can search for.
 - This AI will work with Facebook and/or Twitter only
 - A simple and clean user-interface delpoyed to Heroku
 
