@@ -28,6 +28,7 @@ A list of references we used to help build this project.
 - [A guide to being an ethical online investigator](https://www.technologyreview.com/2021/01/14/1015931/how-to-be-an-ethical-online-investigator-activist)
 - [NLP in Python-Data cleaning](https://towardsdatascience.com/nlp-in-python-data-cleaning-6313a404a470)
 - [Getting Your Text Data Ready for Your Natural Language Processing Journey](https://towardsdatascience.com/getting-your-text-data-ready-for-your-natural-language-processing-journey-744d52912867)
+- [Creating The Twitter Sentiment Analysis Program in Python with Naive Bayes Classification](https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed)
 
 
 # Trello
