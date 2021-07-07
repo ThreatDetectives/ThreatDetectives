@@ -10,6 +10,8 @@ Build a learning AI that can detect threatening speech. This Repo is to train th
   - https://github.com/MkayButters
 - Taylor Johnson
   - https://github.com/johnson-tay09
+- Amber Falbo
+  - https://github.com/amberfalbo
 
 # Resources
 A list of resources used in this project.
